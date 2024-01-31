@@ -7,7 +7,7 @@ import androidx.compose.ui.graphics.Color
 object CounterColorsDefaults {
 
     @Composable
-    fun buttonColors(
+    fun colors(
         contentColor: Color = MaterialTheme.colorScheme.surface,
         containerColor: Color = MaterialTheme.colorScheme.primaryContainer,
         disabledContentColor: Color = MaterialTheme.colorScheme.surfaceVariant,
